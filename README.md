@@ -8,3 +8,16 @@ Here I tried to predict the client income category( more than 60K & less than 60
  2. Naive Bayes (NB) 
  3. Decision Tree (DT) 
  4. Random Forest (RF)
+
+I used required, needed libraries 
+library(tidyverse)
+
+library(class)
+
+library(caret)
+
+library(e1071)
+
+library(C50)
+
+library(randomForest)
